@@ -1,4 +1,5 @@
-*/.ipynb_checkpoints
+*/*.ipynb_checkpoints
 */.DS_Store
 *.py
-*/.csv
+*/*.csv
+.ipynb_checkpoints
