@@ -3,3 +3,4 @@
 *.py
 */*.csv
 .ipynb_checkpoints
+*/*/*.csv
